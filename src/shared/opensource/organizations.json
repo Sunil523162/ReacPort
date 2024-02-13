@@ -1,0 +1,9 @@
+{"data":[
+    {"login":"HTML","avatarUrl":"https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon.png","__typename":"Organization"},
+    {"login":"Java","avatarUrl":"https://dev.java/assets/images/java-logo-vert-blk.png","__typename":"Organization"},
+    {"login":"C++","avatarUrl":"https://icon2.cleanpng.com/20171220/dgw/letter-c-png-5a3a869353fec5.5541397315137849793441.jpg","__typename":"Organization"},
+    {"login":"PHP","avatarUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjjbiOQXCXrJxCRgjTtw1z0-DgwaXcJ1sqcw&usqp=CAU","__typename":"Organization"},
+    {"login":"ReactJs","avatarUrl":"https://avatars1.githubusercontent.com/u/11823761?v=4","__typename":"Organization"},
+    {"login":"CSS","avatarUrl":"https://cdn-icons-png.flaticon.com/512/4901/4901138.png","__typename":"Organization"},
+    {"login":"JavaScript","avatarUrl":"https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.png","__typename":"Organization"},
+    {"login":"Node.Js","avatarUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png","__typename":"Organization"}]}
